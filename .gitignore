@@ -1,0 +1,5 @@
+# Configs to ignore
+iterm2/
+
+# NeoVIM things to ignore
+nvim/lazy-lock.json
