@@ -4,6 +4,7 @@ TERM = "xterm-256color"
 [window]
 padding.x = 3
 padding.y = 3
+startup_mode = "Maximized"
 
 #decorations = "buttonless" # No Mac buttons, rounded corners
 decorations = "none"        # No Mac buttons, square corners
@@ -16,3 +17,4 @@ option_as_alt = "Both"
 [font]
 normal.family = "BitstromWera Nerd Font Mono"
 size = 12
+
