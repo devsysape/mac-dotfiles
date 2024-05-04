@@ -27,10 +27,12 @@ brew install alacritty
 brew install nvim
 brew install ripgrep
 brew install git-lfs
+brew install asciidoctor
 
 # CLI Productivity tools
 brew install tmux
 brew install thefuck
+brew install timewarrior   # https://timewarrior.net, very cool way to track time
 
 # add VLC player
 brew install --cask vlc
