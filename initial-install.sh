@@ -22,7 +22,8 @@ echo " -> adding Homebrew package"
 
 # add basic packages 
 brew install git
-brew install iterm2
+#brew install iterm2 (switched to alacritty)
+brew install alacritty
 brew install nvim
 brew install ripgrep
 brew install git-lfs
