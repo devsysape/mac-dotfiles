@@ -1,5 +1,8 @@
 # Configs to ignore
 iterm2/
 
+# The Fuck things to ignore
+thefuck/__pycache__/
+
 # NeoVIM things to ignore
 nvim/lazy-lock.json

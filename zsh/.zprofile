@@ -27,6 +27,9 @@ alias vim=nvim
 export EDITOR=nvim
 set -o emacs
 
+# Eval for thefuck
+eval $(thefuck --alias)
+
 # Kubernetes
 #function unset_prompt {
 #        export PROMPT="%n@%m %1~ %# "

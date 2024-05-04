@@ -19,12 +19,17 @@ echo " -> installing Homebrew"
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 echo " -> adding Homebrew package"
-# add basic packages
+
+# add basic packages 
 brew install git
 brew install iterm2
 brew install nvim
 brew install ripgrep
 brew install git-lfs
+
+# CLI Productivity tools
+brew install tmux
+brew install thefuck
 
 # add VLC player
 brew install --cask vlc
