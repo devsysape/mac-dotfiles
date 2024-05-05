@@ -34,6 +34,14 @@ brew install tmux
 brew install thefuck
 brew install timewarrior   # https://timewarrior.net, very cool way to track time
 
+# CLI Troubleshooting and network tools
+brew install htop
+brew install iperf3
+brew install wireshark
+brew install --cask wireshark
+brew install --cask wireshark-chmodbpf
+
+
 # add VLC player
 brew install --cask vlc
 
