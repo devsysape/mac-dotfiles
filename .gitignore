@@ -6,3 +6,4 @@ thefuck/__pycache__/
 
 # NeoVIM things to ignore
 nvim/lazy-lock.json
+nvim/spell

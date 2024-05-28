@@ -30,6 +30,9 @@ set -o emacs
 # Eval for thefuck
 eval $(thefuck --alias)
 
+# Fuzzy Finder
+eval "$(fzf --zsh)"
+
 # Kubernetes
 #function unset_prompt {
 #        export PROMPT="%n@%m %1~ %# "
