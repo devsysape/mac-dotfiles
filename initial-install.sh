@@ -41,6 +41,8 @@ brew install wireshark
 brew install --cask wireshark
 brew install --cask wireshark-chmodbpf
 
+# Add X11
+brew install --cask xquartz
 
 # add VLC player
 brew install --cask vlc
