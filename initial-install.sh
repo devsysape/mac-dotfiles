@@ -28,6 +28,7 @@ brew install nvim
 brew install ripgrep
 brew install git-lfs
 brew install asciidoctor
+brew install min          # Min(imal) browser for screenshots and sharing w/o any favorites or browser clutter
 
 # CLI Productivity tools
 brew install tmux
