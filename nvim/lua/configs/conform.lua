@@ -1,8 +1,13 @@
 local options = {
   formatters_by_ft = {
     lua = { "stylua" },
-    -- css = { "prettier" },
-    -- html = { "prettier" },
+    elixir = {"prettier"},
+    css = { "prettier" },
+    html = { "htmlbeautifier" },
+    bash = { "beautysh" },
+    yaml = { "yamlfix" },
+    proto = { "buf" },
+    markdown = { { "prettierd", "prettier"} },
   },
 
   -- format_on_save = {
